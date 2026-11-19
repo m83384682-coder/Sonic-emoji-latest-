@@ -1,0 +1,6 @@
+{
+  "name": "Sonic Emoji",
+  "description": "Accessible text-to-speech studio that replaces emojis and inline tags with real sound effects, pauses, and background music.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
